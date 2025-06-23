@@ -1,4 +1,4 @@
-# Sales Analysis and Forecasting Dashboard Using Power BI
+# Sales Analysis and Forecasting Dashboard Using  Power BI
 
 • Imported, cleaned, and transformed sales data to ensure accuracy and readiness for analysis.
 • Applied DAX functions to create calculated metrics and perform detailed data analysis.
